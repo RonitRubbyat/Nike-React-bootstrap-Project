@@ -1,3 +1,9 @@
+/*--------------
+    utilities
+----------------*/
+.body-back{
+    background: #E5E5E5;
+}
 /*------------
     header
 --------------*/
@@ -23,4 +29,18 @@
 }
 .catr-img{
     width: 24px;
+}
+/*---------
+    main
+-----------*/
+.card-redious{
+    border-radius: 20px;
+    background-color: #fff;
+}
+.casual-back{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.price{
+    color: #FA804C;
 }
