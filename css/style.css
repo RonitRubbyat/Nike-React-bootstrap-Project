@@ -5,7 +5,17 @@
     background-color: #FFF9F4;
 }
 #nav-logo{
-    width: 291px;
+    width: 279px;
+}
+.h1-1{
+    color: #FA804C;
+}
+.h1-2{
+    color: #363958;
+}
+.h1-1,
+.h1-2{
+    font-weight: 700;
 }
 .button-bak{
     background-image: linear-gradient(#3D4FF3, #3543BC);
